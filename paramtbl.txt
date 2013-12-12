@@ -13,6 +13,7 @@ post_stutterlength	0.3	bcr2000	s8	1	stutter length
 post_stutteron	0	bcr2000	b24	1	stutter on
 post_timablend	0	bcr2000	s4	1	tima blend
 tree_opacity	.6	bcr2000	s22		tree opacity
+tree_angle	.3	bcr2000	s9		tree angle
 attr_pull	0.5	bcr2000	s11		attractor pull
 tube_cam_distance	.2	bcr2000	s20	1	cam distance
 tube_cam_pulse	0			1	
