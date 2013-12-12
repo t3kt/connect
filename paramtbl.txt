@@ -29,3 +29,5 @@ tree_reverse	0	bcr2000	b9	tree reverse
 treenet_opacity	.6	bcr2000	s21		tree net opacity
 path_opacity	.1	bcr2000	s16	path opacity
 part_reflect_opacity	.3	bcr2000	s15	particle reflect opacity
+point_trigger1	0	zerosl	b17	point trigger 1
+point_trigger2	0	zerosl	b18	point trigger 2
