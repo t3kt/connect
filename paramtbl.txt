@@ -31,3 +31,5 @@ path_opacity	.1	bcr2000	s16	path opacity
 part_reflect_opacity	.3	bcr2000	s15	particle reflect opacity
 point_trigger1	0	zerosl	b17	point trigger 1
 point_trigger2	0	zerosl	b18	point trigger 2
+point_brightness1	.5	zerosl	s17	point brightness 1
+point_brightness2	.5	zerosl	s18	point brightness 2
