@@ -27,6 +27,7 @@ tube_mat_strobe_rate	.5	bcr2000	s7		strobe rate
 tree_rate	.4	bcr2000	s18	tree rate
 tree_reverse	0	bcr2000	b9	tree reverse
 treenet_opacity	.6	bcr2000	s21		tree net opacity
+treenet_fillopacity	.3	bcr2000	s17	tree net fill opacity
 path_opacity	.1	bcr2000	s16	path opacity
 part_reflect_opacity	.3	bcr2000	s15	particle reflect opacity
 point_trigger1	0	zerosl	b17	point trigger 1
