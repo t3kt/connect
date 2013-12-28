@@ -14,22 +14,20 @@ post_stutteron	0	bcr2000	b24	1	stutter on
 post_timablend	0	bcr2000	s4	1	tima blend
 tree_opacity	.6	bcr2000	s22		tree opacity
 tree_angle	.3	bcr2000	s9		tree angle
-attr_pull	0.5	bcr2000	s11		attractor pull
 tube_cam_distance	.2	bcr2000	s20	1	cam distance
 tube_cam_pulse	0			1	
 tube_cam_rate	.7	bcr2000	s31	1	cam rate
 tube_cam_rot_center	.25	bcr2000	s25	1	cam rotate center
 tube_cam_rot_width	.15	bcr2000	s26	1	cam rotate width
 tube_mat_flashamount	0.2	bcr2000	s24		flash amount
-attr_rimamount	.3	bcr2000	s16		
 tube_mat_strobe_on	0	bcr2000	b23		strobe on
 tube_mat_strobe_rate	.5	bcr2000	s7		strobe rate
 tree_rate	.4	bcr2000	s18	tree rate
 tree_reverse	0	bcr2000	b9	tree reverse
 treenet_opacity	.6	bcr2000	s21		tree net opacity
-treenet_fillopacity	.3	bcr2000	s17	tree net fill opacity
+treenet_fillopacity	.3	bcr2000	s15	tree net fill opacity
+path_rate	.3	bcr2000	s17	path rate
 path_opacity	.1	bcr2000	s16	path opacity
-part_reflect_opacity	.3	bcr2000	s15	particle reflect opacity
 point_trigger1	0	zerosl	b17	point trigger 1
 point_trigger2	0	zerosl	b18	point trigger 2
 point_brightness1	.5	zerosl	s17	point brightness 1
