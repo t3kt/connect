@@ -26,8 +26,9 @@ tree_rate	.4	bcr2000	s18		tree rate
 tree_reverse	0	bcr2000	b9		tree reverse
 tree_timezigzag	0	bcr2000	b10		tree time zigzag
 tree_timeloop	1	bcr2000	b11		tree time loop
-tree_timelow	0	bcr2000	s5		tree time low
-tree_timehigh	1	bcr2000	s6		tree time high
+tree_timemin	0	bcr2000	s5		tree time min
+tree_timemax	1	bcr2000	s6		tree time max
+tree_timereset	0	bcr2000	s7		tree time reset
 treenet_opacity	.6	bcr2000	s21		tree net opacity
 treenet_fillopacity	.3	bcr2000	s15		tree net fill opacity
 path_rate	.3	bcr2000	s17		path rate
