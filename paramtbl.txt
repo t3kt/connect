@@ -16,6 +16,7 @@ tree_opacity	.6	bcr2000	s22		tree opacity
 tree_angle	.3	bcr2000	s9		tree angle
 tube_cam_distance	.2	bcr2000	s20	1	cam distance
 tube_cam_pulse	0			1	
+tube_cam_reset	0			1	
 tube_cam_rate	.7	bcr2000	s31	1	cam rate
 tube_cam_rot_center	.25	bcr2000	s25	1	cam rotate center
 tube_cam_rot_width	.15	bcr2000	s26	1	cam rotate width
