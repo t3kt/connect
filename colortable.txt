@@ -1,0 +1,11 @@
+path	parameter	value
+bg	colorr	0
+bg	colorg	0
+bg	colorb	0
+bg	colora	0
+treenetfill	diffr	0.417381
+treenetfill	diffg	0.528867
+treenetfill	diffb	0.789
+treepoint	colorr	0.8425
+treepoint	colorg	0.325
+treepoint	colorb	1
