@@ -3,3 +3,5 @@ bg	postproc/bgconstant
 treenetfill	mats/treenetfillmat
 treenet	mats/treenetmat
 treepoint	mats/treepointmat
+tree	mats/treemat
+path	mats/pathmat
