@@ -5,3 +5,4 @@ treenet	mats/treenetmat
 treepoint	mats/treepointmat
 tree	mats/treemat
 path	mats/pathmat
+thresh	mats/threshmat

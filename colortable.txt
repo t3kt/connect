@@ -18,3 +18,6 @@ tree	diff	b	0.848
 path	diff	r	0.47626
 path	diff	g	0.09891
 path	diff	b	0.785
+thresh	diff	r	0.47626
+thresh	diff	g	0.09891
+thresh	diff	b	0.785
