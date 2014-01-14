@@ -41,6 +41,7 @@ point_brightness2	.5	zerosl	s18		point brightness 2
 point_alpha	.2	bcr2000	s32		point alpha
 tree_warpsize	.3	bcr2000	s14		warp size
 tree_warpspin	.4	bcr2000	s13		warp spin
-thresh_opacity	.2	bcr2000	s10		thresh opacity
-thresh_range	.4	bcr2000	s11		thresh range
+thresh_opacity	.2	bcr2000	s19		thresh opacity
+thresh_rangemin	.4	bcr2000	s10		thresh range min
+thresh_rangemax	0	bcr2000	s11		thresh range max
 thresh_limit	.5	bcr2000	s12		thresh limit
