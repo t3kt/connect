@@ -20,7 +20,7 @@ cam_reset	0			1
 cam_rate	.7	bcr2000	s31	1	cam rate
 cam_rot_center	.25	bcr2000	s25	1	cam rotate center
 cam_rot_width	.15	bcr2000	s26	1	cam rotate width
-time_switch_on	0	bcr2000	b23		time switch on
+time_switch_on	0	bcr2000	b7		time switch on
 time_switch_rate	.5	bcr2000	s7		time switch rate
 time_switch_bias	0.2	bcr2000	s24		time switch bias
 tree_rate	.4	bcr2000	s18		tree rate
