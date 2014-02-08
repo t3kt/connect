@@ -21,3 +21,6 @@ path	diff	b	0.785
 thresh	diff	r	0.739261
 thresh	diff	g	0.09891
 thresh	diff	b	0.785
+threshnet	diff	r	0.739261
+threshnet	diff	g	0.09891
+threshnet	diff	b	0.785
