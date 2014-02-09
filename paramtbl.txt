@@ -23,7 +23,12 @@ cam_rot_width	.15	bcr2000	s26	1	cam rotate width
 time_rate	.5	bcr2000	s25		time rate
 time_switch_on	0	bcr2000	b7		time switch on
 time_switch_rate	.5	bcr2000	s7		time switch rate
-time_switch_bias	0.2	bcr2000	s24		time switch bias
+time_pathstep_length	0.46				time path step length
+time_pathstep_enabled	1				time path step enabled
+time_treestep_length	0.629				time tree step length
+time_treestep_enabled	1				time tree step enabled
+time_camstep_length	0.26				time cam step length
+time_camstep_enabled	1				time cam step enabled
 tree_rate	.4	bcr2000	s18		tree rate
 tree_reverse	0	bcr2000	b9		tree reverse
 tree_timezigzag	0	bcr2000	b10		tree time zigzag
