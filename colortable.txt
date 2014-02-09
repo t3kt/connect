@@ -24,3 +24,6 @@ thresh	diff	b	0.785
 threshnet	diff	r	0.739261
 threshnet	diff	g	0.09891
 threshnet	diff	b	0.785
+axes	diff	r	0.7
+axes	diff	g	0.7
+axes	diff	b	0.7

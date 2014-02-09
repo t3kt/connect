@@ -7,3 +7,4 @@ tree	mats/treemat
 path	mats/pathmat
 thresh	mats/threshmat
 threshnet	mats/threshnetmat
+axes	mats/axesmat
