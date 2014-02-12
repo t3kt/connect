@@ -45,6 +45,7 @@ point_trigger2	0	zerosl	b18		point trigger 2
 point_brightness1	.5	zerosl	s17		point brightness 1
 point_brightness2	.5	zerosl	s18		point brightness 2
 point_alpha	.2	bcr2000	s32		point alpha
+point_trailopacity	.6			point trail opacity
 tree_warpsize	.3	bcr2000	s14		warp size
 tree_warpspin	.4	bcr2000	s13		warp spin
 thresh_opacity	.2	bcr2000	s19		thresh opacity
