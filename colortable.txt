@@ -9,9 +9,6 @@ treenet	diff	b	0.812
 treenetfill	diff	r	0.41738101840019226
 treenetfill	diff	g	0.5288666486740112
 treenetfill	diff	b	0.7889999747276306
-treepoint	color	r	0.32499998807907104
-treepoint	color	g	0.5274999737739563
-treepoint	color	b	1.0
 tree	diff	r	0.2756
 tree	diff	g	0.35192
 tree	diff	b	0.848
